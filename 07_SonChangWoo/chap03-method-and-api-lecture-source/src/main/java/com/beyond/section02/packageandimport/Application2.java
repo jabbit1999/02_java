@@ -1,5 +1,7 @@
 package com.beyond.section02.packageandimport;
 
+// 컴파일 시 컴파일러가 자동 추가
+import java.lang.*; // java.lang 패키지 내 모든 클래스 가져오기
 // [import]
 // - 외부 클래스를 가지고 와서 배치
 // - 이후 현재 클래스에서 사용 시 클래스명만 작성하면 된다!!
